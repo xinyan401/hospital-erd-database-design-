@@ -1,0 +1,13 @@
+✔Assumptions 
+A hospital must employ more than one hospital doctors.  
+One hospital doctor must treats one or more patient, either resident patient or out-patient. 
+A Family doctor (GP) have many patients,
+A patient only consults one family doctor.  
+A patient visits one hospital doctor only. 
+A resident patient can underwent multiple operations.
+Each out-patient can have multiple appointments.   
+One ward can house more than one resident patient.
+One theatre must hosts more than one operation but one operation only can conduct in one theatre.  
+Each operation is carried out by one hospital doctor.
+A hospital doctor specializes in one specialism.
+A patient must be either a resident-patient or out-patient
